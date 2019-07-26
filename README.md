@@ -8,3 +8,7 @@ ASSIGNMENT 1
 ASSIGNMENT 2
 
 25th June Completed Assignment 2
+
+ASSIGNMENT 3
+
+27th July Completed Assignment 3
